@@ -20,7 +20,7 @@ The purpose of this analysis was to create and train a machine learning model an
 
 
 ### Summary 
-When looking at how the models scored in accuracy the third optimization was the best, followed by the first model, then the second optimization attempt and the least accurate was the first optimization attempt. In terms of the loss all the models were about the same ranging from .5601 to .5623. 
+When looking at how the models scored in accuracy the third optimization was the best, followed by the first model, then the second optimization attempt and the least accurate was the first optimization attempt. In terms of the loss all the models were about the same ranging from .5601 to .5623. I also ran lazy_predict just see how all of those mdoels would score and the highest accuracy was .72. 
 
 first model scores:
 ![Screenshot 2024-07-09 at 3 53 44 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/b905f461-6edf-4a55-8df2-f5e095897e15)
@@ -41,5 +41,9 @@ second optimization attempt scores:
 
 third optimization attempt scores:
 ![Screenshot 2024-07-09 at 3 54 14 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/7a0a8318-6966-4d62-beb4-215d502f8188)
+
+lazy predict results:
+![Screenshot 2024-07-10 at 5 47 05 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/25571a3a-30df-42bb-9e40-dcb2ec940742)
+
 
  
