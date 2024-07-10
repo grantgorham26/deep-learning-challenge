@@ -20,22 +20,26 @@ The purpose of this analysis was to create and train a machine learning model an
 
 
 ### Summary 
-
+When looking at how the models scored in accuracy the third optimization was the best, followed by the first model, then the second optimization attempt and the least accurate was the first optimization attempt. In terms of the loss all the models were about the same at .56. 
 
 first model scores:
+![Screenshot 2024-07-09 at 3 53 44 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/b905f461-6edf-4a55-8df2-f5e095897e15)
 
 
 
 
 first optimization attempt scores:
+![Screenshot 2024-07-09 at 3 53 53 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/b83fc66b-7a59-4bc8-bb19-1a1bc6f3201f)
 
 
 
 second optimization attempt scores:
+![Screenshot 2024-07-09 at 3 54 06 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/77508997-6dd0-4bd7-ace5-2e67c839c9c9)
 
 
 
 
 third optimization attempt scores:
+![Screenshot 2024-07-09 at 3 54 14 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/7a0a8318-6966-4d62-beb4-215d502f8188)
 
  
