@@ -20,7 +20,7 @@ The purpose of this analysis was to create and train a machine learning model an
 
 
 ### Summary 
-When looking at how the models scored in accuracy the third optimization was the best, followed by the first model, then the second optimization attempt and the least accurate was the first optimization attempt. In terms of the loss all the models were about the same ranging from .5601 to .5623. I also ran lazy_predict just see how all of those mdoels would score and the highest accuracy was .72. 
+When looking at how the models scored in accuracy the third optimization was the best, followed by the first model, then the second optimization attempt and the least accurate was the first optimization attempt. In terms of the loss all the models were about the same ranging from .5601 to .5623. I also ran lazy_predict just see how all of those mdoels would score and the highest accuracy was .72. When looking at another way to solve this problem I could have used an ML model such as random forest. Since random forest can be used for classification problems wiht complex data it would work well to solve this problem just like the neural network model. 
 
 first model scores:
 ![Screenshot 2024-07-09 at 3 53 44 PM](https://github.com/grantgorham26/deep-learning-challenge/assets/154031840/b905f461-6edf-4a55-8df2-f5e095897e15)
